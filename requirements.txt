@@ -1,0 +1,12 @@
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
+seaborn>=0.12
+jupyter>=1.0
+streamlit>=1.30
+pytest>=7.4
+
+Run the Streamlit dashboard	        py -m streamlit run app/streamlit_app.py
+Run the notebook	                py -m jupyter notebook notebooks/logistics_analysis.ipynb
+Run tests	                        py -m pytest tests/test_pipeline.py -v
+Run cleaning pipeline	            python run_pipeline.py
