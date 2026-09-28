@@ -194,9 +194,9 @@ damage %.
 
 ## 👤 Author
 
-**[Your Name]**
+**[Vanitha Gadge]**
 Data Analyst / Business Analyst
-[Your LinkedIn] · [Your Email]
+[www.linkedin.com/in/vanitha-gadge] · [vanithagadge06@gmail.com]
 
 ---
 
